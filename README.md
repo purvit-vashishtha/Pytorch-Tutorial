@@ -17,5 +17,5 @@ This repository consists code for Deep Learning with Pytorch.
 3. [MNIST](https://github.com/purvit-vashishtha/Pytorch-Tutorial/tree/Main/MNIST): This folder contains code for pytorch model trained using MNIST datasets.         3.1 [digit-recognizer-pytorch-lstm-acc-0-99.ipynb](https://github.com/purvit-vashishtha/Pytorch-Tutorial/blob/Main/MNIST/digit-recognizer-pytorch-lstm-acc-0-99.ipynb): Jupyter Notebook containing code for Digit Recognizer using Recurrent Neural Networks(RNNs) and Long Short Term Memory Rnns (LSTM).
 
 ## References
-1. Kaggle
+1. Kaggle: [Naman Manchanda](https://www.kaggle.com/namanmanchanda)
 2. [javatpoint.com](https://www.javatpoint.com/gradient-with-pytorch)
