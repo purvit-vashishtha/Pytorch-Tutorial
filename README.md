@@ -1,5 +1,6 @@
 # Pytorch-Tutorial
 This repository consists code for Deep Learning with Pytorch.
+</br>
 ![pytorch](https://user-images.githubusercontent.com/68766423/120927990-86c64400-c700-11eb-9c04-9e05c1885bd5.png)
 
 
